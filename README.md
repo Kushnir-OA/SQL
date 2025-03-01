@@ -11,3 +11,4 @@
    
 - Курс "Разработка БД":
 6. LR#1_Script_KushnirOA_cource2.sql - Создание и модификация таблиц БД
+7. LR#2_Script_KushnirOA_cource2.sql - Создание ограничений целостности в БД (not null, check, unique, primary key, foreign key)
