@@ -15,5 +15,4 @@
 - [LR#1_Script_KushnirOA_cource2.sql](LR%231_Script_KushnirOA_cource2.sql) - Создание и модификация таблиц БД.
 - [LR#2_Script_KushnirOA_cource2.sql](LR%232_Script_KushnirOA_cource2.sql) - Создание ограничений целостности в БД (`not null`, `check`, `unique`, `primary key`, `foreign key`).
 - [LR#3_Script_KushnirOA_cource2.sql](LR%233_Script_KushnirOA_cource2.sql) - Модификация данных в БД с учетом ограничений целостности, управление явными транзакциями и конкурентным доступом при помощи разных уровней изоляции.
-
-- 
+- [LR#4_Script_KushnirOA_cource2.sql](LR%234_Script_KushnirOA_cource2.sql) - Наследование и секционирование (партиционирование) таблиц БД.
